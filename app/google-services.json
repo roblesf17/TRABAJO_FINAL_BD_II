@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "385801670454",
+    "firebase_url": "https://examensm.firebaseio.com",
+    "project_id": "examensm",
+    "storage_bucket": "examensm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385801670454:android:04c7ad11689e8194a5ed97",
+        "android_client_info": {
+          "package_name": "com.example.examen_unidadii_estrella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385801670454-jbltdu1rg303bdi6mi60t2o9qa42q0d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.examen_unidadii_estrella",
+            "certificate_hash": "d210c18c9d87812d0bc3e266e9a9805b42234825"
+          }
+        },
+        {
+          "client_id": "385801670454-9t9ulaler3o07cuun5ksthre04gd5bbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr6Y53pO28u-3KOPqBj8FBznl2RME3vuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385801670454-9t9ulaler3o07cuun5ksthre04gd5bbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
